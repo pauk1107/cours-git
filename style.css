@@ -1,0 +1,30 @@
+@import "reset.css";
+.nir {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  border: 2px solid red;
+}
+.ttt {
+  display: inline-block;
+  box-sizing: border-box;
+  margin: 32%;
+  margin-top: 40%;
+  border: 1px solid greenyellow;
+  color: aliceblue;
+}
+h1 {
+  margin: 10px;
+  color: rgb(75, 123, 4);
+}
+h2 {
+  font-size: 40px;
+  margin: 10px;
+  color: red;
+  font-family: cursive;
+  font-weight: bold;
+}
+.lin {
+  height: 3px;
+  background-color: brown;
+}
